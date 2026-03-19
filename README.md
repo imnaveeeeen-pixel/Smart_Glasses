@@ -19,11 +19,11 @@ This project helps visually impaired people detect nearby obstacles using ultras
 
 ## 🔌 Circuit Diagram
 
-![Circuit](circuit.png)
+![Circuit](Smart_Glasses_Circuit_Diagram.png)
 
 ## 🖼️ Project Image
 
-![Smart Glasses](Smart_glasses.jpeg)
+![Smart Glasses](Smart_Glasses_Image.jpeg)
 
 ## 💻 Code
 
