@@ -23,7 +23,7 @@ This project helps visually impaired people detect nearby obstacles using ultras
 
 ## 🖼️ Project Image
 
-![Smart Glasses](Smart_Glasses_Image.jpeg)
+![Smart Glasses](Smart_Glasses_Image.png)
 
 ## 💻 Code
 
